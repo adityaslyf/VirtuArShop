@@ -13,7 +13,7 @@ function App() {
       <Navbar />
 
       <Carousel />
-      <div className="flex">
+      <div className="flex flex-wrap">
       <Fwatch />
  <Fglasses />
  <Shoes />
