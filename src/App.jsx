@@ -8,11 +8,13 @@ import Table from "./components/table.jsx";
 import Iphone from "./components/iphone.jsx";
 import Chair from "./components/chair.jsx";
 import Top from "./components/top.jsx"
+
+
 function App() {
   return (
     <>
       <Navbar />
-      
+    
       
       <Top />
       <Carousel />
@@ -25,8 +27,9 @@ function App() {
         <Iphone />
       </div>
       <Chair />
+     
     </>
   );
-}
+};
 
 export default App;
