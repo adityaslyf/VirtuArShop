@@ -11,16 +11,19 @@ import Top from "./components/top.jsx"
 import DeafaultSidebar from "./components/DefaultSidebar.jsx"
 import FooterSitemapLinks from "./components/FooterSitemapLinks.jsx"
 import CardWithList from "./components/CardWithList.jsx"
+import Perfume from "./components/Perfume.jsx"
+import Earpods from "./components/Earpods.jsx"
 
 function App() {
   return (
     <>
     
       <Navbar />
-  
+  <div className="flex">
     <DeafaultSidebar />
       
       <Top />
+      </div>
       <Carousel />
       
       <div className="flex flex-wrap justify-evenly">
@@ -30,7 +33,11 @@ function App() {
         <Table />
         <Iphone />
       </div>
+      <div className="flex flex flex-wrap">
       <Chair />
+      <Perfume />
+      <Earpods />
+      </div>
       <CardWithList />
      <FooterSitemapLinks />
     </>
