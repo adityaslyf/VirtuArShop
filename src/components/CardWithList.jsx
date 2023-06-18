@@ -28,10 +28,10 @@ const CardWithList = () => {
               </div>
               <div className="min-w-0 flex-1">
                 <p className="truncate text-sm font-medium text-gray-900 dark:text-white">
-                  Neil Sims
+                  Utkarsh Sharma
                 </p>
                 <p className="truncate text-sm text-gray-500 dark:text-gray-400">
-                  email@windster.com
+                  Utkarsh@gmail.com
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
@@ -46,10 +46,10 @@ const CardWithList = () => {
               </div>
               <div className="min-w-0 flex-1">
                 <p className="truncate text-sm font-medium text-gray-900 dark:text-white">
-                  Bonnie Green
+                  Pratham Saxena
                 </p>
                 <p className="truncate text-sm text-gray-500 dark:text-gray-400">
-                  email@windster.com
+                  pratham@gmail.com
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
@@ -64,10 +64,10 @@ const CardWithList = () => {
               </div>
               <div className="min-w-0 flex-1">
                 <p className="truncate text-sm font-medium text-gray-900 dark:text-white">
-                  Michael Gough
+                  Shubham Varshney
                 </p>
                 <p className="truncate text-sm text-gray-500 dark:text-gray-400">
-                  email@windster.com
+                  Shubham@gmail.com
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
@@ -82,10 +82,10 @@ const CardWithList = () => {
               </div>
               <div className="min-w-0 flex-1">
                 <p className="truncate text-sm font-medium text-gray-900 dark:text-white">
-                  Lana Byrd
+                  Yogesh Gupta
                 </p>
                 <p className="truncate text-sm text-gray-500 dark:text-gray-400">
-                  email@windster.com
+                  yogesh@gmail.com
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
@@ -100,10 +100,10 @@ const CardWithList = () => {
               </div>
               <div className="min-w-0 flex-1">
                 <p className="truncate text-sm font-medium text-gray-900 dark:text-white">
-                  Thomes Lean
+                  Priyanhsu Singh
                 </p>
                 <p className="truncate text-sm text-gray-500 dark:text-gray-400">
-                  email@windster.com
+                  priyanshu@gmail.com
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">

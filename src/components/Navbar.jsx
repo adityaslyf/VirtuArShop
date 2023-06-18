@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import ecommerce from "../assets/ecommerce.png";
 
 const Navbar = () => {
   return (
@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         {/* Logo and brand */}
         <a href="#" className="flex items-center">
-          <img src={logo} className="h-8 mr-3" alt="Logo" />
+          <img src={ecommerce} className="h-8 mr-3" alt="Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             VirtuArShop
           </span>
