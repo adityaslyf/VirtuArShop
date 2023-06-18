@@ -5,6 +5,7 @@ import { Card } from 'flowbite-react';
 const CardWithList = () => {
   return (
     <Card>
+     
       <div className="mb-4 flex items-center justify-between">
         <h5 className="text-xl font-bold leading-none text-gray-900 dark:text-white">
           Latest Customers
@@ -34,7 +35,7 @@ const CardWithList = () => {
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                $320
+              ₹320
               </div>
             </div>
           </li>
@@ -52,7 +53,7 @@ const CardWithList = () => {
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                $3467
+              ₹3467
               </div>
             </div>
           </li>
@@ -70,7 +71,7 @@ const CardWithList = () => {
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                $67
+              ₹67
               </div>
             </div>
           </li>
@@ -88,7 +89,7 @@ const CardWithList = () => {
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                $367
+              ₹367
               </div>
             </div>
           </li>
@@ -106,12 +107,13 @@ const CardWithList = () => {
                 </p>
               </div>
               <div className="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                $2367
+              ₹2367
               </div>
             </div>
           </li>
         </ul>
       </div>
+      
     </Card>
   )
 }

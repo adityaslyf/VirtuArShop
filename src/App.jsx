@@ -24,8 +24,9 @@ function App() {
       
       <Top />
       </div>
+      <div className="mt-1"> 
       <Carousel />
-      
+      </div>
       <div className="flex flex-wrap justify-evenly">
         <Fwatch />
         <Fglasses />

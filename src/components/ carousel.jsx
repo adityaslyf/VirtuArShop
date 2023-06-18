@@ -3,6 +3,7 @@ import watch from "../assets/watch.jpg";
 import sofa from "../assets/sofa.webp";
 import cloth from "../assets/cloth.avif";
 import glasses from "../assets/glasses.avif";
+import Cart from "../assets/Cart.avif"
 
 const Carousel = () => {
   return (
@@ -49,7 +50,7 @@ const Carousel = () => {
           {/* Item 5 */}
           <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src=""
+              src={Cart}
               className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
