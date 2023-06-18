@@ -2,9 +2,10 @@ import React from "react";
 import flash2 from "../assets/flash2.png"
 
 
+
 const Fwatch = () => {
   return (
-    <div className="w-full max-w-sm bg-white border border-gray-200 rounded-md shadow dark:bg-gray-800 dark:border-gray-700 ml-4 mt-2">
+    <div className="w-80 max-w-sm bg-white border border-gray-200 rounded-md shadow dark:bg-gray-800 dark:border-gray-700 ml-2 mt-2">
       <a href="#">
         <img className="ml-6 rounded-t-lg" src={flash2} alt="product image" />
       </a>
@@ -37,7 +38,7 @@ const Fwatch = () => {
         </div>
         <div className="flex items-center justify-between">
           <span className="text-3xl font-bold text-gray-900 dark:text-white">₹26599</span>
-          <a href="https://drive.google.com/file/d/1PH5olmIfgvej5JJ4p395UQ2jJzrfGhYA/view?usp=sharing" target="_blank" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+          <a href="https://drive.google.com/file/d/1PH5olmIfgvej5JJ4p395UQ2jJzrfGhYA/view?usp=sharing" target="_blank" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">View in Virtual mode</a>
         </div>
       </div>
     </div>

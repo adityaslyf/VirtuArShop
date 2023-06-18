@@ -1,16 +1,15 @@
 import React from "react";
 import watch from "../assets/watch.jpg";
-import sofa from "../assets/sofa.webp"
-import cloth from "../assets/cloth.avif"
-import glasses from "../assets/glasses.avif"
-
+import sofa from "../assets/sofa.webp";
+import cloth from "../assets/cloth.avif";
+import glasses from "../assets/glasses.avif";
 
 const Carousel = () => {
   return (
     <div>
       <div
         id="default-carousel"
-        className="relative w-full"
+        className="relative"
         data-carousel="slide"
       >
         {/* Carousel wrapper */}
@@ -143,7 +142,7 @@ const Carousel = () => {
             <span className="sr-only">Next</span>
           </span>
         </button>
-     </div>
+      </div>
     </div>
   );
 };
